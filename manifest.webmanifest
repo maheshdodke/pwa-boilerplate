@@ -1,0 +1,17 @@
+{
+    "name": "App Name",
+    "short_name": "Short Name",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Some Awesome Description Related To Your App",
+    "icons": [
+        {
+            "src": "images/logo-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+
+// Link this file using <link rel="manifest" href="./manifest.webmanifest">
